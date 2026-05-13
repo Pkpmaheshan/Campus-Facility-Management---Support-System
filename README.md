@@ -47,15 +47,6 @@ flutter run
 
 ---
 
-## 🗄️ Database
-
-Import `database.sql` into phpMyAdmin.
-
-Database name:
-cfmss_db
-
----
-
 ## 🔑 Test Accounts
 
 ### Student
